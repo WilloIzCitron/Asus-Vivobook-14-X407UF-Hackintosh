@@ -1,4 +1,4 @@
-# Asus Vivobook 14 X407UF (Kaby Lake Intel Core i3) Hackintosh (OpenCore)
+https://github.com/theluqqass/ASUS-A407UF-OPENCORE# Asus Vivobook 14 X407UF (Kaby Lake Intel Core i3) Hackintosh (OpenCore)
 
 ## Device Information
 | Component   | Name                        | Comment                                                                                             |
@@ -54,5 +54,6 @@ The proper BIOS settings for Hackintosh are:
 
 ## Credits
 - https://dortania.github.io/OpenCore-Install-Guide/
+- https://github.com/acidanthera
 - https://github.com/chris1111
-- https://github.com/theluqqass/ASUS-A407UF-OPENCORE
+- https://github.com/theluqqass
