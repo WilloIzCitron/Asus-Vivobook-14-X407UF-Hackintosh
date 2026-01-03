@@ -33,14 +33,14 @@ https://github.com/theluqqass/ASUS-A407UF-OPENCORE# Asus Vivobook 14 X407UF (Kab
   - Wi-Fi, You need USB Wi-Fi Adapter or USB Ethernet Adapter to work. (need to install certain drivers)
   - Airdrop
   - Fingerprint
-  - Sleep and Wake (it crashes EFI after sleep wake). if you managed to fix that, you shall read [Fixing Sleep Guide](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html).
+  - Sleep and Wake (it crashes EFI after sleep wake). if you manage to fix that, You shall read [Fixing Sleep Guide](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html).
 </details>
 <details>
   <summary>
     Post-installation
   </summary>
   
-  - For audio, you need to install [Voodoo HDA driver for Tahoe by chris1111](https://github.com/chris1111/VoodooHDA-Tahoe)
+  - For Audio, Install [Voodoo HDA driver for Tahoe by chris1111](https://github.com/chris1111/VoodooHDA-Tahoe)
   - For USB Wifi Adapter, Follow [this guide](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/Usage-macOS-Tahoe.md)
 </details>
 
