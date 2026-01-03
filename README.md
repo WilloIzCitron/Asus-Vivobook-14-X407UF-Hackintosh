@@ -39,6 +39,7 @@
   <summary>
     Post-installation
   </summary>
+  
   - For audio, you need to install [Voodoo HDA driver for Tahoe by chris1111](https://github.com/chris1111/VoodooHDA-Tahoe)
   - For USB Wifi Adapter, Follow [this guide](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/Usage-macOS-Tahoe.md)
 </details>
