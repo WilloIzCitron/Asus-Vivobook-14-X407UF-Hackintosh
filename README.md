@@ -30,7 +30,7 @@ https://github.com/theluqqass/ASUS-A407UF-OPENCORE# Asus Vivobook 14 X407UF (Kab
    Issues
   </summary>
   
-  - Wi-Fi, You need USB Wi-Fi Adapter or USB Ethernet Adapter to work. (need to install certain drivers)
+  - Wi-Fi, USB Wi-Fi Adapter or USB Ethernet Adapter required to work. (Requires to install certain drivers)
   - Airdrop
   - Fingerprint
   - Sleep and Wake (it crashes EFI after sleep wake). if you manage to fix that, You shall read [Fixing Sleep Guide](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html).
