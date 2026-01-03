@@ -4,7 +4,7 @@ https://github.com/theluqqass/ASUS-A407UF-OPENCORE# Asus Vivobook 14 X407UF (Kab
 | Component   | Name                        | Comment                                                                                             |
 |-------------|-----------------------------|----------------------------------------------------------------------------------------------------|
 | CPU         | Intel Core i3-7020U         |                                                                                                   |
-| iGPU+dGPU   | UHD 620 + NVidia MX130      | iGPU only after macOS 10.14 (Mojave), use macOS 10.13 (High Siera) or older for dGPU support.      |
+| iGPU+dGPU   | Intel UHD 620 + NVidia MX130      | iGPU only after macOS 10.14 (Mojave), use macOS 10.13 (High Siera) or older for dGPU support.      |
 | Audio Codec | High Definition Audio (HDA) | For macOS 26 (Tahoe) you need VoodooHDA.  For macOS 15 (Sequoia) or older, You might use AppleHDA. |
 | Wi-FI       | Atheros QCA9377             |                                                                                                   |
 | RAM         | 12GB 2133MHz DDR4           | You need 8GB minimum of RAM to run "last" macOS.                                                   |
