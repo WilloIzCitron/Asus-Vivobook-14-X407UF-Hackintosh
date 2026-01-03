@@ -34,6 +34,7 @@
   - Airdrop
   - Fingerprint
   - Sleep and Wake (it crashes EFI after sleep wake). if you manage to fix that, You shall read [Fixing Sleep Guide](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html).
+  - TCC notification, can be fixed with [tccplus](https://github.com/jslegendre/tccplus)
 </details>
 <details>
   <summary>
@@ -42,6 +43,7 @@
   
   - For Audio, Install [Voodoo HDA driver for Tahoe by chris1111](https://github.com/chris1111/VoodooHDA-Tahoe)
   - For USB Wifi Adapter, Follow [this guide](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/Usage-macOS-Tahoe.md)
+  - Install AsusSMC Daemon to make Fn keys and backlit working.
 </details>
 
 ### Bios Settings (Fully Mandatory!!)
