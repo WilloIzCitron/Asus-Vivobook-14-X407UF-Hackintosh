@@ -1,4 +1,4 @@
-https://github.com/theluqqass/ASUS-A407UF-OPENCORE# Asus Vivobook 14 X407UF (Kaby Lake Intel Core i3) Hackintosh (OpenCore)
+# Asus Vivobook 14 X407UF (Kaby Lake Intel Core i3) Hackintosh (OpenCore)
 
 ## Device Information
 | Component   | Name                        | Comment                                                                                             |
